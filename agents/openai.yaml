@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embedded Project Reader"
+  short_description: "Pre-read embedded project docs."
+  default_prompt: "Use $embedded-project-reader to pre-read this embedded project and build reliable pin and peripheral memory."
